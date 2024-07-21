@@ -1,0 +1,10 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    }
+}
